@@ -7,9 +7,9 @@
 	protected function connect() { 	
 
 		$host = "remotemysql.com";
-		$user = "root";
-		$password = "123456";
-		$dbname = "WP0BqJ4QBT";
+		$user = "user2311";
+		$password = "123456789";
+		$dbname = "myheroku";
 
 		$dsn = 'mysql:host=' . $host . ';dbname=' . $dbname;
 
