@@ -6,10 +6,10 @@
 	
 	protected function connect() { 	
 
-		$host = "127.0.0.1";
-		$user = "root";
+		$host = "remotesql.com";
+		$user = "WP0BqJ4QBT";
 		$password = "123456";
-		$dbname = "firstblog";
+		$dbname = "WP0BqJ4QBT";
 
 		$dsn = 'mysql:host=' . $host . ';dbname=' . $dbname;
 
