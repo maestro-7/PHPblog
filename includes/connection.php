@@ -6,7 +6,7 @@
 	
 	protected function connect() { 	
 
-		$host = "remotesql.com";
+		$host = "remotemysql.com";
 		$user = "WP0BqJ4QBT";
 		$password = "123456";
 		$dbname = "WP0BqJ4QBT";
